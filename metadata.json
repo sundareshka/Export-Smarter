@@ -1,0 +1,6 @@
+{
+  "name": "Export Smarter: AI & Digital Marketing Strategies",
+  "description": "Interactive presentation deck and Google Slides generator for Export Smarter: AI & Digital Marketing Strategies by Sundaresh Kamaraj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
